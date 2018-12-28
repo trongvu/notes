@@ -1,2 +1,2 @@
 # notes
-Mostly to jot down some notes during work
+Mostly for jotting down some notes during work
